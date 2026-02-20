@@ -6,13 +6,16 @@
 **Link**: <https://www.adrianpeh.works>
 
 
-![Interactive resume diagram](public/interactive_resume_drawio.png)
-
+<p align="center">
+  <img src="public/interactive_resume_drawio.png" alt="Interactive resume diagram" width="800" />
+</p>
 
 ## Sample Process Automation Project
 
 
-![Interactive resume diagram](public/interactive_resume_drawio.png)
+<p align="center">
+  <img src="public/process_automation_drawio.png" alt="Process automation diagram" width="800" />
+</p>
 
 
 ## **Adrian Peh's Resume**
