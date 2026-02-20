@@ -34,7 +34,7 @@ Repository for my interactive resume site, built with React + TypeScript and dep
 ### Sample Process Automation Project
 
 <p align="center">
-  <img src="./public/process_automation_drawio.png" alt="Process automation diagram" width="700" />
+  <img src="./public/process_automation.png" alt="Process automation diagram" width="700" />
 </p>
 
 ---
